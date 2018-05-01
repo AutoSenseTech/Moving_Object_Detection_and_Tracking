@@ -51,13 +51,7 @@ def control(data):
     global sub_bool
     
     sub_bool = 1
-	## Your code goes here
-	# 1. Scale the error (amplify error by some suitable value)
-	# 2. Apply the PID equation on error (consider servo_offset)
-	# 3. Make sure the error is within bounds of (-100, 100)
- 	
-	## Error is scaled to reflect proper angle value
-	# 7 seems to be a good scale
+	
     error = data.pid_error * scale
 
 	##PID EQ
