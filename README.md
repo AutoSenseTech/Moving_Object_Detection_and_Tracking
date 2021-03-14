@@ -53,7 +53,7 @@ NVIDIA Jetson TK1 developer kit
 ```
 ## Authors
 
-* **Weihan** - *Vanderbilt University Student* - [Weihan](https://github.com/wwtx9)
+* **Weihan Wang** - *Vanderbilt University* - [Weihan](https://github.com/wwtx9)
 
-* **Feiyang** - *Vanderbilt University Phd Student* - [Feiyang](https://github.com/feiyangsb)
+* **Feiyang Cai** - *Vanderbilt University* - [Feiyang](https://github.com/feiyangsb)
 
